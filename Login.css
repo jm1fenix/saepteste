@@ -1,0 +1,15 @@
+body{
+    background-color: bisque;
+}
+
+.title{
+    margin: 2%;
+}
+
+.form-control{
+    width: 30% !important;
+    justify-content: center;
+    
+    align-items: center;
+    margin: auto;
+}
